@@ -1,0 +1,18 @@
+body{
+    background: lightblue;
+    font: normal 15pt Arial;
+    color: blue;
+   }
+
+main{
+   color: black;
+   background-color: orange;
+   font: normal 15pt Arial;
+   border-radius: 10px;
+   width: 350px;
+   height: 200px;
+   margin:auto;
+   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.404);
+   text-align: center;
+   }
+
