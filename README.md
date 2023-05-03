@@ -10,7 +10,7 @@ Nesse projeto é informado o IMC após o usuário informar dados de peso(Kg) e A
 - CSS: Para estilização.
 
 ## Como Usar
-- Faça o download do zip e extraia em sua maquina;
+- Faça o download do diretório ou clone para sua maquina;
 - Abra o aplicativo em um navegador da web;
 - Informe seus dados: nome, altura e peso.
 
